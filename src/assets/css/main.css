@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+body{
+    background: rgb(34,34,34);
+}
+.container{
+    max-width: 1270px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
